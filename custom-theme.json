@@ -123,7 +123,7 @@
     "spec": 2,
     "background": {
         "blur": 0.6,
-        "url": "https://raw.githubusercontent.com/Makerm1/vendetta-theme/main/bg-image.png?token=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",
+        "url": "https://raw.githubusercontent.com/Makerm1/vendetta-theme/main/bg-image.png",
         "alpha": 0.5,
         "color": "#000000"
     }
